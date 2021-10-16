@@ -5,7 +5,9 @@
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
-    },    
+feature-maria-gallery
+    },
+
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
     }
